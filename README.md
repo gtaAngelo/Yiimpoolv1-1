@@ -54,7 +54,7 @@ This installer provides an automated way to set up a full Yiimp mining pool on U
 
 ### Quick Install
 ```bash
-curl https://raw.githubusercontent.com/Kudaraidee/Yiimpoolv1/master/install.sh | bash
+curl https://raw.githubusercontent.com/gtaAngelo/Yiimpoolv1/master/install.sh | bash
 ```
 
 ### Configuration Steps
